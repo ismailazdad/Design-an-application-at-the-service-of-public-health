@@ -1,2 +1,2 @@
-# P2_Concevez-une-application-au-service-de-la-sant-publique
-Analyse univariee et multivariee a partri des donnees openFoodFact
+# Design-an-application-at-the-service-of-public-health
+Univariate and multivariate analysis from openFoodFact data
